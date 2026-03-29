@@ -1,5 +1,4 @@
-Gemini said
-Here are those points enhanced to sound human, professional, and ready for your GitHub README:
+
 
 🚀 Milestone 1: Data Foundations & Engineering
 In this first phase, I shifted my focus from just writing code to understanding the "DNA" of an application: the data itself.
